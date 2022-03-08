@@ -83,7 +83,7 @@ validaIdade(idade);
 console.log(validar);
 
 alert(soma(5, 10));
-alert(setReplace("Vai Japão", "Japão", "Brasil"));*/
+alert(setReplace("Vai Japão", "Japão", "Brasil"));
 
 function clicou() {
     document.getElementById("agradecimento").innerHTML = "<b>Redirecionar para o canal Zarp - clique aqui</b>";
