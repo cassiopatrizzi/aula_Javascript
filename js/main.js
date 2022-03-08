@@ -1,4 +1,3 @@
-/*
 // if - else
 var idade = prompt("Qual sua idade?");
 if (idade >= 18){
@@ -61,9 +60,8 @@ alert(d.getMonth() + 1);
 alert(d.getDay());
 alert(d.getHours());
 alert(d.getMinutes());
-*/
 
-/*function soma(n1, n2) {
+function soma(n1, n2) {
     return n1 + n2;
 }
 
